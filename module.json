@@ -27,8 +27,8 @@
   ],
   "compatibility": {
     "minimum": "10",
-    "verified": "13",
-    "maxium": "13"
+    "verified": "11",
+    "maxium": "11"
   },
   "esmodules": [
     "scripts/hooks.js",
